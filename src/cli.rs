@@ -26,7 +26,7 @@ pub fn start(){
     
     loop{
 
-        println!("=> ");
+        print!("=> ");
 
         io::stdout().flush().unwrap();
         
